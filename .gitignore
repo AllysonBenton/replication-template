@@ -18,4 +18,4 @@ vignettes/*.pdf
 
 #Ignore Files with this Name
 *-99*
-*SomethingNew.R*
+
