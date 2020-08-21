@@ -16,5 +16,6 @@ vignettes/*.pdf
 # Dropbox
 .DS_Store
 
-
-
+#Ignore Files with this Name
+*-99*
+*SomethingNew.R*
